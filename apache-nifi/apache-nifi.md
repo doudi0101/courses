@@ -23,7 +23,7 @@ Pentaho : c'est un logiciel de business intelligence qui fournit l'intégration 
 
 ## Apache NiFi, c'est quoi ?
 
-Apache Nifi est un puissant outil open source de gestion de flux de données.</br>
+Apache Nifi est un puissant outil open source de gestion de flux de données .</br>
 
 - Il permet de gérer, automatiser, transformer, transférer des données entre plusieurs systèmes informatiques : Kafka, Amazon S3, HDFS, Base de données...
 - Il est scalable et peut être déployé sur des clusters de manière distribuée.
